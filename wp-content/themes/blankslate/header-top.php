@@ -28,7 +28,7 @@
 				  </button>
 					<div class="logo">
 						<h1>
-              <a class="navbar-brand" href="/">
+              <a class="navbar-brand" href="index.html">
                 <span class="one">F</span>ast<span class="one">B</span>reak<span class="one">H</span>omes
               </a>
             </h1>
@@ -39,11 +39,11 @@
 				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					<nav class="cl-effect-1" id="cl-effect-1">
 						<ul class="nav navbar-nav">
-							<li class="active"><a class="scroll" href="/">Home</a></li>
-							<li><a href="/#about" class="scroll hvr-bounce-to-bottom">About</a></li>
+							<li class="active"><a href="/">Home</a></li>
+							<li><a href="/#about" class="hvr-bounce-to-bottom">About</a></li>
 							<li><a href="/sell-a-property" class="hvr-bounce-to-bottom">Sell A Property</a></li>
               <li><a href="/buy-a-property" class="hvr-bounce-to-bottom">Buy A Property</a></li>
-							<li><a href="/#contact" class="scroll hvr-bounce-to-bottom">Contact</a></li>
+							<li><a href="#contact" class="hvr-bounce-to-bottom">Contact</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -52,17 +52,4 @@
 
 		</div>
 	</div>
-  <!--/banner-section-->
-  	<div id="demo-1" data-zs-src='["<?php echo get_template_directory_uri(); ?>/images/2.jpg", "<?php echo get_template_directory_uri(); ?>/images/1.jpg", "<?php echo get_template_directory_uri(); ?>/images/3.jpg","<?php echo get_template_directory_uri(); ?>/images/4.jpg"]' data-zs-overlay="dots">
-  		<div class="demo-inner-content">
-  			<!--/banner-info-->
-  			   <div class="baner-info">
-  			      <h3>Fast<span> Real</span> Estate<span> Solutions</span></h3>
-  				  <h4>Sell your home without the hassle</h4>
-  				  <span><img src="<?php echo get_template_directory_uri(); ?>/images/logo2.png" alt=""></span>
-  			   </div>
-  			<!--/banner-ingo-->
-  		</div>
-      </div>
-  <!--/banner-section-->
   </div>
